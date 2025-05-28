@@ -1,2 +1,1 @@
-# flask_lib_stuff
-flask libarary python
+# Web hosting project for a simple chatting app with Flask and Nginx
